@@ -49,7 +49,7 @@ can reach the 5.9 GHz ITS-G5 band at all.
 
 ## The "register hack"
 
-Documented in the C-ITS ESP32 talk (Ehrenreich/Potzi, opentrafficmap)
+Documented in the C-ITS ESP32 talk (Ehrenreich/Potzi, opentrafficmap).
 The relevant undocumented `libphy.a` calls, found by
 reverse engineering the (Apache-2.0-licensed) blobs:
 
