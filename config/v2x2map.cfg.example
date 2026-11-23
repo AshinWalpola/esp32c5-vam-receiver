@@ -1,0 +1,8 @@
+{
+  "node_id": "v2x2map:<your-node-id>",
+  "port": "COM4",
+  "brokers": [
+    "mqtts://cits1.opentrafficmap.org:8883"
+  ],
+  "legal_accepted": true
+}
